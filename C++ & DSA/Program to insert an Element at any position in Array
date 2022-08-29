@@ -4,7 +4,7 @@ int main()
 {
     //C++ Program to insert an Element at any position in Array
 
-        int array[100], size, pos, i, insElem, count = 0;
+        int array[100], size, pos, i, insElem;
 
         cout << "Enter the size of an array (Max size: 100): ";
         cin >> size;
